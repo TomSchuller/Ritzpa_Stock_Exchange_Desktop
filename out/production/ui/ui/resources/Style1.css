@@ -1,0 +1,11 @@
+.showUsersImage {
+    -fx-image: url(/ui/resources/avatar_icon.png);
+}
+
+.showStocksImage {
+    -fx-image: url(/ui/resources/stocks_icon.png);
+}
+
+.showTradeImage {
+    -fx-image: url(/ui/resources/commit_icon.png);
+}
